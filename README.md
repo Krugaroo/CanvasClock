@@ -3,7 +3,7 @@ A JavaScript canvas clocks library for embedding cool clocks in websites
 
 ![alt text](https://github.com/Krugaroo/CanvasClock/blob/master/example.PNG  "Example Clocks")
 
-Want to see what I am talking about? A demo can be found on my website here: [http://www.krugaroo.com/#canvasClocks](http://www.krugaroo.com/#canvasClocks)
+Want to see what I am talking about? A demo can be found on my website here: [http://www.krugaroo.com/#canvasClock](http://www.krugaroo.com/#canvasClocks)
 
 ## Usage
 
